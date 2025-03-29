@@ -26,8 +26,8 @@ Here are a few of my projects on GitHub:
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** HTML, CSS, JavaScript (and others as needed)
-- **Tools:** Git, GitHub, and various modern web development frameworks
+- **Languages:** Java, HTML, CSS, JavaScript (and others as needed)
+- **Tools:** Spring boot, Insomnia Rest, Postgres, MySQL, Git, GitHub, and various modern web development frameworks
 
 ---
 

@@ -19,7 +19,7 @@ Here are a few of my projects on GitHub:
 - [**Decodificador-de-Texto---Alura-Challenges-Oracle-ONE**](https://github.com/edivannsantanna/Decodificador-de-Texto---Alura-Challenges-Oracle-ONE)  
   A project built to tackle text decoding challenges from Alura and Oracle ONE.
 
-- [**Amigo Secreto---Alura-Challenges-Oracle-ONE**](https://github.com/edivannsantanna/challenge_amigo_secreto)  
+- [**Amigo-Secreto---Alura-Challenges-Oracle-ONE**](https://github.com/edivannsantanna/challenge_amigo_secreto)  
   A project built to raffle off secret friend.
 
 ---
